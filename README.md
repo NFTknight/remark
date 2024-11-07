@@ -64,7 +64,7 @@ If you want to run any Remark application locally, follow these steps:
 2. Clone your fork
 
 ```bash
-git clone git@github.com:USERNAME/remark.git
+git clone https://github.com/NFTknight/remark.git
 cd remark
 ```
 
